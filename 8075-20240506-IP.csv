@@ -1,0 +1,16 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+172.208.36.45,443,true,IAD,North America,Ashburn,289 ms,1676 kB/s
+51.107.6.138,8443,true,MXP,Europe,Milan,270 ms,761 kB/s
+4.223.160.199,8443,true,ARN,Europe,Stockholm,305 ms,671 kB/s
+20.84.118.215,2053,true,IAD,North America,Ashburn,289 ms,640 kB/s
+51.107.6.220,8443,true,MXP,Europe,Milan,270 ms,582 kB/s
+51.107.6.231,8443,true,MXP,Europe,Milan,271 ms,464 kB/s
+51.120.240.115,2087,true,CPH,Europe,Copenhagen,320 ms,400 kB/s
+4.255.56.137,443,true,IAD,North America,Ashburn,303 ms,313 kB/s
+172.190.150.25,8443,true,IAD,North America,Ashburn,274 ms,224 kB/s
+51.107.13.85,8443,true,MXP,Europe,Milan,282 ms,195 kB/s
+51.107.6.128,8443,true,MXP,Europe,Milan,264 ms,147 kB/s
+20.170.41.153,443,true,FRA,Europe,Frankfurt,268 ms,86 kB/s
+4.223.160.199,2053,true,ARN,Europe,Stockholm,306 ms,23 kB/s
+51.120.240.115,8080,true,CPH,Europe,Copenhagen,296 ms,18 kB/s
+20.83.149.174,443,true,IAD,North America,Ashburn,298 ms,0 kB/s
